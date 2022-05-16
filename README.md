@@ -9,3 +9,5 @@ To use this software, do the following:
   5. Click Calculate
 
 This software is still a work in progress, and further functionality and improvements will be added in the future.  If you have any questions, comments, or suggestions, feel free to email me at sweiss93@gmail.com
+
+@JELLE : !pip install PyQt5
