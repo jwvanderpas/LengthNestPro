@@ -1,17 +1,17 @@
-# import math
-# import numpy as np
+import math
+import numpy as np
 import time
-# import math
+import math
 import sys
-# import os
-# from PyQt5 import QtWidgets, QtGui, QtCore
+import os
+from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtWidgets import QApplication
-# from PyQt5.QtWidgets import QTableWidgetItem
+from PyQt5.QtWidgets import QTableWidgetItem
 from PyQt5.QtGui import QPalette, QColor
-# from PyQt5.QtCore import Qt
-# from xml.etree import ElementTree
-# from nest_calculation import CalculateThread
-# from fractions import Fraction
+from PyQt5.QtCore import Qt
+from xml.etree import ElementTree
+from nest_calculation import CalculateThread
+from fractions import Fraction
 from window import Window
 
 # TODO add results outputs such as scrap %
